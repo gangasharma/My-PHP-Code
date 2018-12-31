@@ -1,0 +1,21 @@
+Variable delete function
+	1.unset()
+
+
+Check the data type
+	1.Var_Dump()
+	2.gettype()
+	3.is_int()
+
+Condition Apply not enter the numeric value
+	1.is_numeric()
+	
+	
+operator use function 
+		1. round() or ceil() e.g 2.5 print the 3
+		2. floor() e.g 2.5 print the 2
+	
+Super Globel Variable
+	1.$_GET[]
+	2.$_POST[]
+	3.$_REQUEST[]
